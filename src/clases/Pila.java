@@ -15,6 +15,7 @@ public class Pila {
             
             nuevo_nodo.siguiente = null;
             UltimoValorIngresado = nuevo_nodo;
+            //esto es un comentario
             
         } else {
             
